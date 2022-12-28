@@ -1,0 +1,94 @@
+set relativenumber true
+set ratios 2:5
+set drawbox true
+set icons true
+set previewer ~/.config/lf/preview
+set preview true
+set cleaner ~/.config/lf/cleaner
+
+# Custom Functions
+cmd open ${{
+    case $(file --mime-type "$f" -bL) in
+	text/*|application/json|inode/x-empty) $EDITOR $fx;;
+	image/svg+xml) inkscape $f ;;
+	*) xdg-open "$f" ;;
+    esac
+}}
+
+cmd mkdir ${{
+  printf "Directory Name: "
+  read ans
+  mkdir $ans
+}}
+
+cmd mkfile ${{
+  printf "File Name: "
+  read ans
+  $EDITOR $ans
+}}
+
+cmd chmod ${{
+  printf "Mode Bits: "
+  read ans
+
+  for file in "$fx"
+  do
+    chmod $ans $file
+  done
+
+  lf -remote 'send reload'
+}}
+
+cmd setwallpaper %cp "$f" ~/.config/wall.png && xwallpaper --zoom "$f"
+
+# Archive bindings
+cmd unarchive ${{
+  case "$f" in
+      *.zip) unzip "$f" ;;
+      *.tar.gz) tar -xzvf "$f" ;;
+      *.tar.bz2) tar -xjvf "$f" ;;
+      *.tar) tar -xvf "$f" ;;
+      *) echo "Unsupported format" ;;
+  esac
+}}
+
+cmd bulkrename $vidir
+cmd trash %trash $fx
+
+cmd restore_trash ${{
+  trash-restore
+}}
+
+cmd clear_trash ${{
+ trash-empty -f
+}}
+
+# Remove some defaults
+map m
+map o
+map "'"
+map '"'
+map f
+map p
+map c
+map t
+
+map au unarchive
+
+# Basic Functions
+map . set hidden!
+map D delete
+map <enter> open
+map mf mkfile
+map md mkdir
+map y copy
+map p paste
+map C clear
+map ch chmod
+map bg setwallpaper
+map br bulkrename
+map r rename
+map ua unarchive
+map tp trash
+map tr restore_trash
+map te clear_trash

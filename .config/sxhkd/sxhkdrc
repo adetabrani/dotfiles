@@ -1,0 +1,8 @@
+# select screenshot
+alt + p
+	maim -su | tee ~/Pictures/Screenshots/"$(date +%s_%h%d_%H:%M:%S).png" | xclip -selection clipboard -t image/png
+
+control + alt + p
+	maim -u | tee ~/Pictures/Screenshots/"$(date +%s_%h%d_%H:%M:%S).png" | xclip -selection clipboard -t image/png
+
+
