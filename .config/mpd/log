@@ -1,0 +1,562 @@
+Dec 29 16:32 : exception: Failed to open '/home/adetabrani/.config/mpd/state': No such file or directory
+Dec 29 16:32 : config: option 'options' on line 10 was not recognized
+Dec 29 16:32 : update: added /Buzz rhythm⧸Move Ahead SE 【Fear, and Loathing in Las Vegas】 [1bfDwe_e2uM].mp3
+Dec 29 16:32 : update: added /y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 16:32 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 16:32 : update: added /【Fear, and Loathing in Las Vegas】Carry on FaLiLV Opening SE Cover [vSGuQcIY-x8].mp3
+Dec 29 16:32 : update: added /【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 16:32 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 16:32 : update: added /Michelle Branch - All You Wanted (Official Music Video) ｜ Warner Records [Cbo2n2MzxxE].mp3
+Dec 29 16:32 : update: added /y2mate.com - Nikon D7500 Timelapse sample video_1080p.mp4
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 16:32 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 16:32 : update: added /Evanescence - My Immortal (Official Music Video) [5anLPw0Efmo].mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 16:32 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 16:32 : update: added /【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3
+Dec 29 16:32 : update: added /2021 LG OLED l  Ink Art 4K HDR 60fps [WO2b03Zdu4Q].mp4
+Dec 29 16:32 : update: added /y2mate.com - Simple Plan  Astronaut HQ_320kbps.mp3
+Dec 29 17:49 : player: played "Buzz rhythm⧸Move Ahead SE 【Fear, and Loathing in Las Vegas】 [1bfDwe_e2uM].mp3"
+Dec 29 17:49 : player: played "Buzz rhythm⧸Move Ahead SE 【Fear, and Loathing in Las Vegas】 [1bfDwe_e2uM].mp3"
+Dec 29 17:49 : player: played "Buzz rhythm⧸Move Ahead SE 【Fear, and Loathing in Las Vegas】 [1bfDwe_e2uM].mp3"
+Dec 29 17:49 : player: played "Buzz rhythm⧸Move Ahead SE 【Fear, and Loathing in Las Vegas】 [1bfDwe_e2uM].mp3"
+Dec 29 17:49 : player: played "Buzz rhythm⧸Move Ahead SE 【Fear, and Loathing in Las Vegas】 [1bfDwe_e2uM].mp3"
+Dec 29 17:49 : player: played "Buzz rhythm⧸Move Ahead SE 【Fear, and Loathing in Las Vegas】 [1bfDwe_e2uM].mp3"
+Dec 29 17:49 : player: played "Buzz rhythm⧸Move Ahead SE 【Fear, and Loathing in Las Vegas】 [1bfDwe_e2uM].mp3"
+Dec 29 17:49 : player: played "Buzz rhythm⧸Move Ahead SE 【Fear, and Loathing in Las Vegas】 [1bfDwe_e2uM].mp3"
+Dec 29 17:49 : player: played "Buzz rhythm⧸Move Ahead SE 【Fear, and Loathing in Las Vegas】 [1bfDwe_e2uM].mp3"
+Dec 29 17:49 : player: played "Buzz rhythm⧸Move Ahead SE 【Fear, and Loathing in Las Vegas】 [1bfDwe_e2uM].mp3"
+Dec 29 17:49 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 17:49 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 17:49 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 17:49 : exception: Failed to decode /home/adetabrani/Music/2021 LG OLED l  Ink Art 4K HDR 60fps [WO2b03Zdu4Q].mp4; Failed to open '/home/adetabrani/Music/2021 LG OLED l  Ink Art 4K HDR 60fps [WO2b03Zdu4Q].mp4': No such file or directory
+Dec 29 17:49 : player: played "2021 LG OLED l  Ink Art 4K HDR 60fps [WO2b03Zdu4Q].mp4"
+Dec 29 17:49 : exception: Failed to decode /home/adetabrani/Music/2021 LG OLED l  Ink Art 4K HDR 60fps [WO2b03Zdu4Q].mp4; Failed to open '/home/adetabrani/Music/2021 LG OLED l  Ink Art 4K HDR 60fps [WO2b03Zdu4Q].mp4': No such file or directory
+Dec 29 17:50 : update: removing y2mate.com - Nikon D7500 Timelapse sample video_1080p.mp4
+Dec 29 17:50 : update: updating /y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3
+Dec 29 17:50 : update: removing Buzz rhythm⧸Move Ahead SE 【Fear, and Loathing in Las Vegas】 [1bfDwe_e2uM].mp3
+Dec 29 17:50 : update: removing 2021 LG OLED l  Ink Art 4K HDR 60fps [WO2b03Zdu4Q].mp4
+Dec 29 17:50 : update: updating /【Fear, and Loathing in Las Vegas】Carry on FaLiLV Opening SE Cover [vSGuQcIY-x8].mp3
+Dec 29 17:50 : update: updating /y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3
+Dec 29 17:50 : update: removing y2mate.com - Nikon D7500 Timelapse sample video_1080p.mp4
+Dec 29 17:50 : update: removing Buzz rhythm⧸Move Ahead SE 【Fear, and Loathing in Las Vegas】 [1bfDwe_e2uM].mp3
+Dec 29 17:50 : update: removing 2021 LG OLED l  Ink Art 4K HDR 60fps [WO2b03Zdu4Q].mp4
+Dec 29 17:50 : update: updating /【Fear, and Loathing in Las Vegas】Carry on FaLiLV Opening SE Cover [vSGuQcIY-x8].mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 17:50 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 17:50 : update: updating /【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3
+Dec 29 17:50 : update: updating /Michelle Branch - All You Wanted (Official Music Video) ｜ Warner Records [Cbo2n2MzxxE].mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 17:50 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 17:50 : update: updating /【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3
+Dec 29 17:50 : update: updating /Michelle Branch - All You Wanted (Official Music Video) ｜ Warner Records [Cbo2n2MzxxE].mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 17:50 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 17:50 : update: updating /Evanescence - My Immortal (Official Music Video) [5anLPw0Efmo].mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 17:50 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 17:50 : update: updating /Evanescence - My Immortal (Official Music Video) [5anLPw0Efmo].mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 17:50 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 17:50 : update: updating /【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 17:50 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 17:50 : update: updating /【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 17:50 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 17:50 : update: updating /y2mate.com - Simple Plan  Astronaut HQ_320kbps.mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 17:50 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 17:50 : update: updating /y2mate.com - Simple Plan  Astronaut HQ_320kbps.mp3
+Dec 29 17:53 : player: played "y2mate.com - Simple Plan  Astronaut HQ_320kbps.mp3"
+Dec 29 17:53 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 17:53 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 17:53 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 17:53 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 17:53 : mad: input does not appear to be a mp3 bit stream
+Dec 29 17:53 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 17:53 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 17:53 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 17:54 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 17:54 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 17:54 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 17:54 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 17:54 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 17:54 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 17:56 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 29 17:56 : exception: Failed to commit /home/adetabrani/.config/mpd/state: File exists
+Dec 29 20:06 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 20:06 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 20:06 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:08 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 20:08 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 20:08 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 20:08 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:08 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 29 20:10 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 20:10 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 20:10 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 20:10 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:10 : player: played "【Fear, and Loathing in Las Vegas】Carry on FaLiLV Opening SE Cover [vSGuQcIY-x8].mp3"
+Dec 29 20:10 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 20:10 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 20:10 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:12 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 20:12 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 20:12 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 20:12 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:12 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 29 20:13 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 20:13 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 20:13 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 20:13 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:13 : player: played "【Fear, and Loathing in Las Vegas】Carry on FaLiLV Opening SE Cover [vSGuQcIY-x8].mp3"
+Dec 29 20:17 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 20:17 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 20:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:17 : player: played "Michelle Branch - All You Wanted (Official Music Video) ｜ Warner Records [Cbo2n2MzxxE].mp3"
+Dec 29 20:17 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 20:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:19 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 20:19 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 20:19 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 20:19 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:19 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 29 20:24 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 29 20:27 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 20:27 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 20:27 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:28 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 20:28 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 20:28 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 20:28 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:28 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 29 20:30 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 20:30 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 20:30 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 20:30 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:30 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 29 20:31 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 20:31 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 20:31 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 20:31 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:31 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 29 20:33 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 20:33 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 20:33 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 20:33 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:33 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 29 20:34 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 20:34 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 20:34 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 20:34 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:34 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 29 20:35 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 29 20:38 : update: added /【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:40 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 20:40 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 20:40 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : player: played "【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3"
+Dec 29 20:41 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 20:41 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 20:41 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:41 : update: removing 【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3
+Dec 29 20:41 : update: removing 【Fear, and Loathing in Las Vegas】＂Move Ahead Tour 2018＂ SE Cover [oFmXrl0t6ds].mp3
+Dec 29 20:42 : player: played "Michelle Branch - All You Wanted (Official Music Video) ｜ Warner Records [Cbo2n2MzxxE].mp3"
+Dec 29 20:42 : update: added /Far East Movement, Ryan Tedder - Rocketeer (Lyrics) [JNP888jVkJg].webm
+Dec 29 20:42 : update: added /Far East Movement, Ryan Tedder - Rocketeer (Lyrics) [JNP888jVkJg].webm
+Dec 29 20:42 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:46 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 20:46 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:46 : player: played "Far East Movement, Ryan Tedder - Rocketeer (Lyrics) [JNP888jVkJg].webm"
+Dec 29 20:49 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 20:49 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:49 : player: played "Far East Movement, Ryan Tedder - Rocketeer (Lyrics) [JNP888jVkJg].webm"
+Dec 29 20:53 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 20:53 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:53 : player: played "Far East Movement, Ryan Tedder - Rocketeer (Lyrics) [JNP888jVkJg].webm"
+Dec 29 20:56 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 20:56 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 20:57 : player: played "Far East Movement, Ryan Tedder - Rocketeer (Lyrics) [JNP888jVkJg].webm"
+Dec 29 21:00 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 21:00 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 21:00 : player: played "Far East Movement, Ryan Tedder - Rocketeer (Lyrics) [JNP888jVkJg].webm"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:02 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 21:02 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 21:02 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3"
+Dec 29 21:03 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 21:03 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 21:03 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 21:03 : update: removing 【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3
+Dec 29 21:03 : update: removing 【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].mp3
+Dec 29 21:03 : update: added /【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].webm
+Dec 29 21:03 : update: added /【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].webm
+Dec 29 21:03 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 21:05 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 21:05 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 21:05 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].webm"
+Dec 29 21:06 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 21:06 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 21:07 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].webm"
+Dec 29 21:08 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 29 21:08 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 21:08 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].webm"
+Dec 29 21:10 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 21:10 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 21:10 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 29 21:13 : player: played "y2mate.com - Simple Plan  Astronaut HQ_320kbps.mp3"
+Dec 29 21:17 : player: played "y2mate.com - Simple Plan  Astronaut HQ_320kbps.mp3"
+Dec 29 21:21 : player: played "y2mate.com - Simple Plan  Astronaut HQ_320kbps.mp3"
+Dec 29 21:24 : player: played "y2mate.com - Simple Plan  Astronaut HQ_320kbps.mp3"
+Dec 29 21:28 : player: played "y2mate.com - Simple Plan  Astronaut HQ_320kbps.mp3"
+Dec 29 21:31 : player: played "y2mate.com - Simple Plan  Astronaut HQ_320kbps.mp3"
+Dec 29 21:35 : player: played "y2mate.com - Simple Plan  Astronaut HQ_320kbps.mp3"
+Dec 29 21:38 : player: played "y2mate.com - Simple Plan  Astronaut HQ_320kbps.mp3"
+Dec 29 21:42 : player: played "y2mate.com - Simple Plan  Astronaut HQ_320kbps.mp3"
+Dec 29 21:43 : player: played "y2mate.com - Simple Plan  Astronaut HQ_320kbps.mp3"
+Dec 29 22:15 : exception: Failed to commit /home/adetabrani/.config/mpd/state: File exists
+Dec 30 20:14 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 20:15 : exception: Failed to commit /home/adetabrani/.config/mpd/state: File exists
+Dec 30 20:15 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 20:18 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 20:30 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 20:34 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 20:39 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 20:43 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 20:48 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 20:52 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 20:56 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 21:01 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 21:05 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 21:10 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 21:14 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 21:18 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 21:23 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 21:27 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 21:31 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 21:35 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 30 21:59 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 21:59 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 21:59 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 30 22:00 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 30 22:00 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 22:00 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 22:00 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 30 22:01 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 30 22:02 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 30 22:02 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 22:02 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 22:02 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 30 22:02 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 30 22:03 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 30 22:03 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 22:03 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 22:03 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 30 22:04 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 30 22:05 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 30 22:05 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 22:05 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 22:05 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 30 22:05 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 30 22:07 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 30 22:07 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 22:07 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 22:07 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 30 22:07 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 30 22:08 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 30 22:08 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 22:08 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 22:08 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 30 22:08 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 30 22:10 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 30 22:10 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 22:10 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 22:10 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 30 22:10 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 30 22:11 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 30 22:11 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 22:11 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 22:11 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 30 22:11 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 30 22:13 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 30 22:13 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 22:13 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 22:13 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 30 22:13 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 30 22:14 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 30 22:14 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 22:14 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 22:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 30 22:14 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 30 22:16 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 30 22:16 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 22:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 22:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 30 22:16 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 30 22:17 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 30 22:17 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 22:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 22:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 30 22:17 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 30 22:19 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 30 22:19 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 22:19 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 22:19 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 30 22:19 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 30 22:20 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 30 22:20 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 22:20 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 22:20 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 30 22:21 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 30 22:22 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 30 22:22 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 22:22 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 22:22 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 30 22:22 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 30 22:23 : player: played "【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3"
+Dec 31 16:15 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 31 16:15 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 31 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 16:19 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 16:19 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 31 16:19 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 31 16:19 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 16:19 : player: played "Evanescence - My Immortal (Official Music Video) [5anLPw0Efmo].mp3"
+Dec 31 16:22 : update: added /Destine - Thousand Miles [SVYJtIG66u4].webm
+Dec 31 16:22 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 16:26 : player: played "Destine - Thousand Miles [SVYJtIG66u4].webm"
+Dec 31 16:27 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 16:30 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 16:30 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 16:30 : player: played "Far East Movement, Ryan Tedder - Rocketeer (Lyrics) [JNP888jVkJg].webm"
+Dec 31 16:34 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 16:34 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 16:34 : player: played "Far East Movement, Ryan Tedder - Rocketeer (Lyrics) [JNP888jVkJg].webm"
+Dec 31 16:37 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 16:37 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 16:37 : player: played "Far East Movement, Ryan Tedder - Rocketeer (Lyrics) [JNP888jVkJg].webm"
+Dec 31 16:41 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 16:41 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 16:41 : player: played "Far East Movement, Ryan Tedder - Rocketeer (Lyrics) [JNP888jVkJg].webm"
+Dec 31 16:44 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 16:44 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 16:44 : player: played "Far East Movement, Ryan Tedder - Rocketeer (Lyrics) [JNP888jVkJg].webm"
+Dec 31 16:45 : update: added /Destine - Demons [eMp54DgvHPY].webm
+Dec 31 16:45 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 16:48 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 16:48 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 16:49 : player: played "Destine - Demons [eMp54DgvHPY].webm"
+Dec 31 16:52 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 16:52 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 16:52 : player: played "Destine - Demons [eMp54DgvHPY].webm"
+Dec 31 16:56 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 16:56 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 16:56 : player: played "Destine - Demons [eMp54DgvHPY].webm"
+Dec 31 16:59 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 16:59 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 16:59 : player: played "Destine - Demons [eMp54DgvHPY].webm"
+Dec 31 17:03 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 17:03 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 17:03 : player: played "Destine - Demons [eMp54DgvHPY].webm"
+Dec 31 17:06 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 17:06 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 17:06 : player: played "Destine - Demons [eMp54DgvHPY].webm"
+Dec 31 17:10 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 17:10 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 17:10 : player: played "Destine - Demons [eMp54DgvHPY].webm"
+Dec 31 17:13 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 17:13 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 17:14 : player: played "Destine - Demons [eMp54DgvHPY].webm"
+Dec 31 17:17 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 17:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 17:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 17:19 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 17:19 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 17:19 : player: played "【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].webm"
+Dec 31 17:23 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 31 17:28 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 31 17:32 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 31 17:35 : player: played "y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3"
+Dec 31 17:39 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 17:42 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 17:42 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 17:42 : player: played "Destine - Demons [eMp54DgvHPY].webm"
+Dec 31 17:46 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 31 17:46 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 31 17:46 : player: played "Destine - Demons [eMp54DgvHPY].webm"
+Dec 31 17:48 : player: played "Destine - Demons [eMp54DgvHPY].webm"

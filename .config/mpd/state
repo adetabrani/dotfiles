@@ -1,0 +1,24 @@
+sw_volume: 100
+audio_device_state:1:pulse
+audio_device_state:1:Visualizer feed
+state: stop
+current: 9
+random: 0
+repeat: 1
+single: 1
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Evanescence - My Immortal (Official Music Video) [5anLPw0Efmo].mp3
+1:y2mate.com - Simple Plan  Astronaut HQ_320kbps.mp3
+2:y2mate.com - Slowdive  Sleep 2022 Remastered_320kbps.mp3
+3:【Fear, and Loathing in Las Vegas】2016-17 Live Opening SE Cover [KcgDF5f1Uow].mp3
+4:【Fear, and Loathing in Las Vegas】Carry on FaLiLV Opening SE Cover [vSGuQcIY-x8].mp3
+5:Michelle Branch - All You Wanted (Official Music Video) ｜ Warner Records [Cbo2n2MzxxE].mp3
+6:Far East Movement, Ryan Tedder - Rocketeer (Lyrics) [JNP888jVkJg].webm
+7:【Cover 】 Fear, and Loathing in Las Vegas opening live in Megaport [8l6ICHKQO-U].webm
+8:Destine - Thousand Miles [SVYJtIG66u4].webm
+9:Destine - Demons [eMp54DgvHPY].webm
+playlist_end
