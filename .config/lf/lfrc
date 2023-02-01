@@ -1,4 +1,5 @@
 set relativenumber true
+set number true
 set ratios 2:5
 set drawbox true
 set icons true

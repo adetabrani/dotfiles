@@ -1,18 +1,4 @@
-sxhkd -c $HOME/.config/sxhkd/sxhkdrc &
-
-# enable color support of ls and also add handy aliases
-if [ -x /usr/bin/dircolors ]; then
-    test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
-    alias ls='ls --color=auto'
-	#alias dir='dir --color=auto'
-   	#alias vdir='vdir --color=auto'
-
-   	#alias grep='grep --color=auto'
-   	#alias fgrep='fgrep --color=auto'
-   	#alias egrep='egrep --color=auto'
-fi
-
-PROMPT='%B%F{226}%~%f ->%b '
+#sxhkd -c $HOME/.config/sxhkd/sxhkdrc &
 
 # History in cache directory:
 HISTSIZE=10000000
@@ -28,7 +14,7 @@ zmodload zsh/complist
 compinit
 _comp_options+=(globdots)		# Include hidden files.
 
-#add vim keybinding
+# add vim keybinding
 bindkey -v
 export KEYTIMEOUT=1
 
@@ -55,21 +41,41 @@ zle -N zle-line-init
 echo -ne '\e[5 q' # Use beam shape cursor on startup.
 preexec() { echo -ne '\e[5 q' ;} # Use beam shape cursor for each new prompt.
 
+
 lfcd () {
-    tmp="$(mktemp)"
+    tmp="$(mktemp -uq)"
     lfub -last-dir-path="$tmp" "$@"
     if [ -f "$tmp" ]; then
         dir="$(cat "$tmp")"
-        rm -f "$tmp"
         [ -d "$dir" ] && [ "$dir" != "$(pwd)" ] && cd "$dir"
     fi
 }
 bindkey -s '^o' 'lfcd\n'
 
+bindkey -a '^[[3~' delete-char
+
+# Edit line in vim with ctrl-e:
+autoload edit-command-line; zle -N edit-command-line
+bindkey '^e' edit-command-line
+
+
 export EDITOR=nvim
 export TERM=st
+export COLORTERM="truecolor"
 export PATH="/home/adetabrani/.cargo/bin:$PATH"
 export PATH="/home/adetabrani/.local/bin:$PATH"
+export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS'
+    --color=fg:#e5e9f0,bg:#2E3440,hl:#81a1c1
+    --color=fg+:#e5e9f0,bg+:#2E3440,hl+:#81a1c1
+    --color=info:#eacb8a,prompt:#bf6069,pointer:#b48dac
+    --color=marker:#a3be8b,spinner:#b48dac,header:#a3be8b
+    --color=border:#81a1c1
+    --preview-window=up,70%
+    --layout=reverse
+    --border
+    --padding=0.5%
+    --margin=0.5%'
+export BAT_CONFIG_PATH="/home/adetabrani/.config/bat/bat.conf"
 
 # list alias
 alias vim="nvim"

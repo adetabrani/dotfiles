@@ -39,12 +39,12 @@ extension:
 filetype:
   dir: 📁
   file: 📃
-  pipe: פּ
-  socket: 
-  executable: 
-  symlink-dir: 
-  symlink-file: 
-  device-char: 
-  device-block: ﰩ
-  special: 
+  pipe: "פּ "
+  socket: " "
+  executable: " "
+  symlink-dir: " "
+  symlink-file: " "
+  device-char: " "
+  device-block: "ﰩ "
+  special: " "
 
