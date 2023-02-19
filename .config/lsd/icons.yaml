@@ -1,44 +1,44 @@
 name:
-  .zshrc: 📃
+  .zshrc: " "
 
 extension: 
-  png: 🌅
-  webp: 🌅
-  ico: 🌅
-  jpg: 🌅
-  jpe: 🌅
-  jpeg: 🌅
-  gif: 🌅
-  svg: 🌅
-  pdf: 📚
-  epub: 📚
-  djvu: 📚
-  mp3: 🎵
-  opus: 🎵
-  ogg: 🎵
-  m4a: 🎵
-  zip: 📦
-  rar: 📦
-  tar: 📦
-  7z: 📦
-  xz: 📦
-  gz: 📦
-  iso: 📀
-  img: 📀
-  mkv: 🎦
-  mp4: 🎦
-  webm: 🎦
-  mpeg: 🎦
-  avi: 🎦
-  mov: 🎦
-  mpg: 🎦
-  wmv: 🎦
-  m4b: 🎦
-  flv: 🎦
+  png: " "
+  webp: " "
+  ico: " "
+  jpg: " "
+  jpe: " "
+  jpeg: " "
+  gif: " "
+  svg: " "
+  pdf: " "
+  epub: " "
+  djvu: " "
+  mp3: " "
+  opus: " "
+  ogg: " "
+  m4a: " "
+  zip: " "
+  rar: " "
+  tar: " "
+  7z: " "
+  xz: " "
+  gz: " "
+  iso: "🖸 "
+  img: "🖸 "
+  mkv: " "
+  mp4: " "
+  webm: " "
+  mpeg: " "
+  avi: " "
+  mov: " "
+  mpg: " "
+  wmv: " "
+  m4b: " "
+  flv: " "
 
 filetype:
-  dir: 📁
-  file: 📃
+  dir: " "
+  file: " "
   pipe: "פּ "
   socket: " "
   executable: " "
@@ -47,4 +47,3 @@ filetype:
   device-char: " "
   device-block: "ﰩ "
   special: " "
-
