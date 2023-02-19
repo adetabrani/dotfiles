@@ -64,6 +64,7 @@ export TERM=st
 export COLORTERM="truecolor"
 export PATH="/home/adetabrani/.cargo/bin:$PATH"
 export PATH="/home/adetabrani/.local/bin:$PATH"
+export PATH="/home/adetabrani/go/bin:$PATH"
 export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS'
     --color=fg:#e5e9f0,bg:#2E3440,hl:#81a1c1
     --color=fg+:#e5e9f0,bg+:#2E3440,hl+:#81a1c1
@@ -82,10 +83,9 @@ alias vim="nvim"
 alias ls="lsd"
 alias mpv="umpv"
 alias lf="lfub"
+alias v="fd --type f --hidden --exclude .git | fzf-tmux -p --reverse | xargs nvim"
 
 # Load zsh-syntax-highlighting; should be last.
 source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh 2>/dev/null
 
 eval "$(starship init zsh)"
-
-
