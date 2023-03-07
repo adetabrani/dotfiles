@@ -1,0 +1,41 @@
+#!/bin/bash
+
+function get_volume {
+    amixer get Master | grep '%' | head -n 1 | cut -d '[' -f 2 | cut -d '%' -f 1
+}
+
+function is_mute {
+    amixer get Master | grep '%' | grep -oE '[^ ]+$' | grep off > /dev/null
+}
+
+function send_notification() {
+	volume=`get_volume`
+	dunstify -a "n-volume" -u low -r "9993" -h int:value:"$volume" -i /home/adetabrani/.local/share/icons/volume-up-edit.svg "Volume: ${volume}%" -t 2000
+}
+
+function send_notification1() {
+	volume=`get_volume`
+	dunstify -a "n-volume" -u low -r "9993" -h int:value:"$volume" -i /home/adetabrani/.local/share/icons/volume-down-edit.svg "Volume: ${volume}%" -t 2000
+}
+
+case $1 in
+up)
+	# Set the volume on (if it was muted)
+	amixer -q set Master on > /dev/null
+  amixer -q sset Master 5%+
+	send_notification
+	;;
+down)
+	amixer -q set Master on > /dev/null
+  amixer -q sset Master 5%-
+	send_notification1
+	;;
+mute)
+  amixer -q set Master 1+ toggle > /dev/null
+	if is_mute; then
+		dunstify -i /home/adetabrani/.local/share/icons/volume-xmark-edit.svg -a "n-volume" -t 2000 -r 9993 -u low "Muted"
+	else
+		send_notification up
+	fi
+	;;
+esac

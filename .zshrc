@@ -1,5 +1,3 @@
-#sxhkd -c $HOME/.config/sxhkd/sxhkdrc &
-
 # History in cache directory:
 HISTSIZE=10000000
 SAVEHIST=10000000
@@ -60,7 +58,7 @@ bindkey '^e' edit-command-line
 
 
 export EDITOR=nvim
-export TERM=st
+export TERM=alacritty
 export COLORTERM="truecolor"
 export PATH="/home/adetabrani/.cargo/bin:$PATH"
 export PATH="/home/adetabrani/.local/bin:$PATH"
@@ -80,7 +78,7 @@ export BAT_CONFIG_PATH="/home/adetabrani/.config/bat/bat.conf"
 
 # list alias
 alias vim="nvim"
-alias ls="lsd"
+alias ls="lsd -l"
 alias mpv="umpv"
 alias lf="lfub"
 alias v="fd --type f --hidden --exclude .git | fzf-tmux -p --reverse | xargs nvim"

@@ -15,7 +15,7 @@ configuration {
     element-padding:             15px;
     element-radius:              20px;
     general-radius:              100%;
-    element-font:                "feather 48";
+    element-font:                "feather 60px";
 }
 
 /*****----- Main Window -----*****/

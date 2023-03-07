@@ -1,8 +1,27 @@
 # select screenshot
-alt + p
+Print
 	maim -su | tee ~/Pictures/Screenshots/"$(date +%s_%h%d_%H:%M:%S).png" | xclip -selection clipboard -t image/png
 
-control + alt + p
+# fullscreen screenshot
+alt + Print
 	maim -u | tee ~/Pictures/Screenshots/"$(date +%s_%h%d_%H:%M:%S).png" | xclip -selection clipboard -t image/png
 
+# increase brightness
+XF86MonBrightnessUp
+	change-brightness up
 
+# decrease brightness
+XF86MonBrightnessDown
+	change-brightness down
+
+# increase volume speaker
+XF86AudioRaiseVolume
+	change-volume up
+
+# decrease volume speaker
+XF86AudioLowerVolume
+  change-volume down
+
+# toggle mute speaker
+XF86AudioMute
+	change-volume mute

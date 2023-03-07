@@ -1,10 +1,9 @@
 
 /*****----- Configuration -----*****/
 configuration {
-	modi:                       "drun,window";
+	modi:                       "drun";
     show-icons:                 true;
     display-drun:               "Apps";
-    display-window:             "Windows";
 }
 
 /*****----- Global Properties -----*****/
@@ -37,11 +36,11 @@ configuration {
     alternate-active-foreground: var(background);
 
     /* For Screens with 1920x1080 resolution */
-    box-spacing:                 15px;
+    box-spacing:                 20px;
     list-padding:                10px;
-    element-padding:             15px;
+    element-padding:             20px;
     element-radius:              6px;
-    element-spacing:             15px;
+    element-spacing:             20px;
 
 }
 
@@ -50,6 +49,7 @@ window {
     /* properties for window widget */
     location:                    center;
     anchor:                      center;
+    width:                       35%;
 
     /* properties for all widgets */
     enabled:                     true;
@@ -76,7 +76,7 @@ custombox {
     background-color:            transparent;
     text-color:                  @foreground-colour;
     orientation:                 horizontal;
-    children:                    [ "mode-switcher", "listview" ];
+    children:                    [ "listview" ];
 }
 
 /*****----- Inputbar -----*****/
@@ -163,53 +163,17 @@ scrollbar {
 /*****----- Elements -----*****/
 element {
     enabled:                     true;
-    padding:                     @list-padding;
+    padding:                     15px 0;
     border-radius:               @element-radius;
     background-color:            transparent;
-    text-color:                  @foreground-colour;
+    text-color:                  #8691a3;
     cursor:                      pointer;
-}
-element normal.normal {
-    background-color:            var(normal-background);
-    text-color:                  var(normal-foreground);
-}
-element normal.urgent {
-    background-color:            var(urgent-background);
-    text-color:                  var(urgent-foreground);
-}
-element normal.active {
-    background-color:            var(active-background);
-    text-color:                  var(active-foreground);
-}
-element selected.normal {
-    background-color:            var(selected-normal-background);
-    text-color:                  var(selected-normal-foreground);
-}
-element selected.urgent {
-    background-color:            var(selected-urgent-background);
-    text-color:                  var(selected-urgent-foreground);
-}
-element selected.active {
-    background-color:            var(selected-active-background);
-    text-color:                  var(selected-active-foreground);
-}
-element alternate.normal {
-    background-color:            var(alternate-normal-background);
-    text-color:                  var(alternate-normal-foreground);
-}
-element alternate.urgent {
-    background-color:            var(alternate-urgent-background);
-    text-color:                  var(alternate-urgent-foreground);
-}
-element alternate.active {
-    background-color:            var(alternate-active-background);
-    text-color:                  var(alternate-active-foreground);
 }
 element-icon {
     background-color:            transparent;
     text-color:                  inherit;
-    size:                        2.25ch;
-    margin: 0 10px 0 0;
+    size:                        2.5ch;
+    margin:                      0 15px 0 0;
     cursor:                      inherit;
 }
 element-text {
@@ -220,30 +184,10 @@ element-text {
     vertical-align:              0.5;
     horizontal-align:            0.0;
 }
+element selected {
+    text-color:                  @foreground;
+}
 
-/*****----- Mode Switcher -----*****/
-mode-switcher{
-    enabled:                     true;
-    orientation:                 vertical;
-    spacing:                     @box-spacing;
-    background-color:            transparent;
-    text-color:                  @foreground-colour;
-}
-button {
-    padding:                     @element-padding;
-    width:                       150px;
-    border-radius:               @element-radius;
-    background-color:            @alternate-background;
-    text-color:                  inherit;
-    cursor:                      pointer;
-    font: "JetBrains Mono Bold 14";
-    //horizontal-align: 0.0;
-    //vertical-align: 0.5;
-}
-button selected {
-    background-color:            var(selected-normal-background);
-    text-color:                  var(selected-normal-foreground);
-}
 
 /*****----- Message -----*****/
 message {

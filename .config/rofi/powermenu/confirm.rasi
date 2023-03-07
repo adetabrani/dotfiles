@@ -44,7 +44,7 @@ textbox {
     placeholder-color:           @foreground;
     blink:                       true;
     markup:                      true;
-    font: "JetBrains Mono Bold 14";
+    font: "JetBrains Mono Bold 19";
 }
 
 /*****----- Listview -----*****/
