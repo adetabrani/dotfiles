@@ -10,12 +10,12 @@ function is_mute {
 
 function send_notification() {
 	volume=`get_volume`
-	dunstify -a "n-volume" -u low -r "9993" -h int:value:"$volume" -i /home/adetabrani/.local/share/icons/volume-up-edit.svg "Volume: ${volume}%" -t 2000
+	dunstify -a "n-volume" -u low -r "9993" -h int:value:"$volume" -i /home/adetabrani/.local/share/icons/volume-high-edit.svg "Volume: ${volume}%" -t 2000
 }
 
 function send_notification1() {
 	volume=`get_volume`
-	dunstify -a "n-volume" -u low -r "9993" -h int:value:"$volume" -i /home/adetabrani/.local/share/icons/volume-down-edit.svg "Volume: ${volume}%" -t 2000
+	dunstify -a "n-volume" -u low -r "9993" -h int:value:"$volume" -i /home/adetabrani/.local/share/icons/volume-low-edit.svg "Volume: ${volume}%" -t 2000
 }
 
 case $1 in

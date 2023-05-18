@@ -3,19 +3,18 @@
 clock=$(date '+%I')
 
 case "$clock" in
-	"00") icon="🕛" ;;
-	"01") icon="🕐" ;;
-	"02") icon="🕑" ;;
-	"03") icon="🕒" ;;
-	"04") icon="🕓" ;;
-	"05") icon="🕔" ;;
-	"06") icon="🕕" ;;
-	"07") icon="🕖" ;;
-	"08") icon="🕗" ;;
-	"09") icon="🕘" ;;
-	"10") icon="🕙" ;;
-	"11") icon="🕚" ;;
-	"12") icon="🕛" ;;
+  "01") icon_clock="  " ;;
+  "02") icon_clock="  " ;;
+  "03") icon_clock="  " ;;
+  "04") icon_clock="  " ;;
+  "05") icon_clock="  " ;;
+  "06") icon_clock="  " ;;
+  "07") icon_clock="  " ;;
+  "08") icon_clock="  " ;;
+  "09") icon_clock="  " ;;
+  "10") icon_clock="  " ;;
+  "11") icon_clock="  " ;;
+  "12") icon_clock="  " ;;
 esac
 
-date "+$icon%I:%M%p"
+date "+$icon_clock%I:%M%p"

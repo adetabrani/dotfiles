@@ -40,7 +40,7 @@ cmd chmod ${{
   lf -remote 'send reload'
 }}
 
-cmd setwallpaper %cp "$f" ~/.config/wall.png && feh --bg-fill "$f"
+cmd setwallpaper %cp "$f" ~/.config/wall.png && feh --bg-fill "$f" && wal -i "$f" && xdotool key super+F5 && dunst-wal
 
 # Archive bindings
 cmd unarchive ${{

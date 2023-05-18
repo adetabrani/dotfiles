@@ -7,7 +7,7 @@ theme='style'
 # Options
 shutdown='⏻'
 reboot='⟲'
-logout='➜'
+logout='⮌'
 yes='✓'
 no='✕'
 
